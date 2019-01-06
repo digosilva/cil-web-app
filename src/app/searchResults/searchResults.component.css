@@ -1,0 +1,11 @@
+.bottom {
+    border-bottom: 1px solid #ccc;
+}
+
+.card{
+    margin-bottom: 10px;
+}
+
+.card-header{
+    text-align: center;
+}
